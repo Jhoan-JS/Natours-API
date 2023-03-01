@@ -1,4 +1,4 @@
-# Natours Application
+# Natours Application from course Node.js, Express, MongoDB & More: The Complete Bootcamp 2023 Jonas Schmedtmann 
 
 This full stack web application is specially designed for persons who love travelling and going on tour vacations.
 
